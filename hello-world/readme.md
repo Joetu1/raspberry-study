@@ -44,3 +44,9 @@
     ~~~~
 6. 在vscode下编写代码
 7. 编写makefile文件
+
+### 2019-04-05上传树莓派CPU温度到OneNET
+使用OneNET Restful_API将树莓派温度上传到OneNET平台.
+
+1. 学习OneNET平台内容
+2. 学习OneNET Restful_API
